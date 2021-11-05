@@ -3,7 +3,7 @@ package cn.fastloader.common;
 /**
  * 返回状态码
  * 
- * @author 洋葱骑士
+ * @author ggb
  * 
  */
 public interface HttpStatus
